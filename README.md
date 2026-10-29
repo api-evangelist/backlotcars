@@ -64,6 +64,73 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Backlotcars is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+BacklotCars, Inc. is a dealer-to-dealer wholesale used-vehicle marketplace, founded in Kansas City and acquired by KAR Global (now OPENLANE, Inc.), whose technology was consolidated into the OPENLANE US marketplace. It connects thousands of franchise and independent dealers through a 24/7 bid-ask marketplace, "Buy It Now" listings, and timed auctions scheduled throughout each week, backed by native mobile apps, in-lane vehicle inspections with AI-analyzed engine recordings, transportation, and floor-plan financing. Commercial sellers and dealer groups can push inventory straight from their own systems into OPENLANE Sell via OPENLANE Connect, a lightweight dealer integration API with a dedicated test environment. This profile began as a 500 Global portfolio lead surfaced into the API Evangelist network and was enriched from OPENLANE's public marketing and product surface; the platform publishes no public OpenAPI or open developer portal.
 
-Backed by: 500-global — https://backlotcars.com
+**Areas:** Company · Automotive · Wholesale · Vehicle Auctions · Marketplace · Dealers · Used Cars · Remarketing · Two-Sided Marketplace
+
+## Backlotcars on APIs.io
+
+Everything profiled for Backlotcars is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/backlotcars/](https://apis.io/providers/backlotcars/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://backlotcars.com)
+- [Sign up](https://app.openlane.com/sign_up?step=0)
+- [Support](https://www.openlane.com/contact-us/)
+- [Blog](https://www.openlane.com/insights/)
+- [Privacy policy](https://www.openlane.com/privacy_policy/)
+
+## API Evangelist rating
+
+**Kin Score 11.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 23.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/backlotcars/](https://apis.io/providers/backlotcars/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Backlotcars: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/backlotcars/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
